@@ -4,4 +4,5 @@ def add(a,b):
 if __name__ == "__main__":
      x=10
      y=20
-     print("Sum:",add(x+y))
+     print("Sum:",add(x,y))
+
